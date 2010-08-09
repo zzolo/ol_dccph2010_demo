@@ -6,12 +6,12 @@ Install
 -----------------------------
 (in theory)
 
-1) Make build with Drush
+1) Make build with drush:
    drush make ol_dccph2010_demo.make <your_directory>
 
 2) Run through Drupal install
 
-3) Enable modules and other things with drush
+3) Enable modules, features, and other things with drush script:
    bash ol_dccph2010_demo.drush
 
 
