@@ -13,3 +13,11 @@ Install
 
 3) Enable modules and other things with drush
    bash ol_dccph2010_demo.drush
+
+
+
+
+
+Credits
+-----------------------------
+OpenLayers images and styles taken from Managing News (by Development Seed)

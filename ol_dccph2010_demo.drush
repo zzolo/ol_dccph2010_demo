@@ -12,6 +12,7 @@ drush -y en views views_ui content content_copy fieldgroup nodereference number 
 drush -y en ol_dccph2010_demo
 
 # Features
+drush -y ol_dccph2010_demo_site_variables
 
 
 # Cron
