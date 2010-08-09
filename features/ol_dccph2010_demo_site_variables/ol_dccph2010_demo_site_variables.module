@@ -1,0 +1,3 @@
+<?php
+
+include_once('ol_dccph2010_demo_site_variables.features.inc');
