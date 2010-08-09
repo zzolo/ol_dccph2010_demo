@@ -1,1 +1,18 @@
+# $Id$
+
+###
 # A bash file with Drush commands to setup site, once installed.
+#
+###
+
+# Modules
+drush -y en views views_ui content content_copy fieldgroup nodereference number optionwidgets text userreference ctools admin_menu features strongarm devel imageapi imageapi_gd imagecache imagecache_ui filefield imagefield jquery_update jquery_ui libraries openlayers openlayers_ui openlayers_views openlayers_cck openlayers_test diff
+
+# This module
+drush -y en ol_dccph2010_demo
+
+# Features
+
+
+# Cron
+drush cron

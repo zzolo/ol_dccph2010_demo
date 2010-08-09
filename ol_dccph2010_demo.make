@@ -35,6 +35,7 @@ projects[imagefield][subdir] = contrib
 projects[jquery_update][subdir] = contrib
 projects[jquery_ui][subdir] = contrib
 projects[libraries][subdir] = contrib
+projects[diff][subdir] = contrib
 
 
 ; OpenLayers
@@ -43,13 +44,15 @@ projects[openlayers][type] = module
 projects[openlayers][download][type] = cvs
 projects[openlayers][download][module] = contributions/modules/openlayers
 projects[openlayers][download][revision] = DRUPAL-6--2
+projects[openlayers][subdir] = contrib
 
 
 ; This Demo
 ; --------
-projects[tao][type] = module
-projects[tao][download][type] = git
-projects[tao][download][url] = git://github.com/developmentseed/ol_dccph2010_demo.git
+projects[ol_dccph2010_demo][type] = module
+projects[ol_dccph2010_demo][download][type] = git
+projects[ol_dccph2010_demo][download][url] = git://github.com/developmentseed/ol_dccph2010_demo.git
+projects[ol_dccph2010_demo][subdir] = contrib
 
 
 ; Themes
@@ -57,9 +60,9 @@ projects[tao][download][url] = git://github.com/developmentseed/ol_dccph2010_dem
 projects[tao][type] = theme
 projects[tao][download][type] = git
 projects[tao][download][url] = git://github.com/developmentseed/tao.git
-projects[tao][type] = theme
-projects[tao][download][type] = git
-projects[tao][download][url] = git://github.com/developmentseed/rubik.git
+projects[rubik][type] = theme
+projects[rubik][download][type] = git
+projects[rubik][download][url] = git://github.com/developmentseed/rubik.git
 
 
 ; Libraries
