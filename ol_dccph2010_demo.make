@@ -15,7 +15,7 @@ projects[drupal][type] = "core"
 projects[drupal][download][type] = "cvs"
 projects[drupal][download][root] = ":pserver:anonymous:anonymous@cvs.drupal.org:/cvs/drupal"
 projects[drupal][download][module] = "drupal"
-projects[drupal][download][revision] = "DRUPAL-6"
+projects[drupal][download][revision] = "DRUPAL-6-19"
 
 
 ; Projects
@@ -51,8 +51,8 @@ projects[openlayers][subdir] = contrib
 ; --------
 projects[ol_dccph2010_demo][type] = module
 projects[ol_dccph2010_demo][download][type] = git
-projects[ol_dccph2010_demo][download][url] = git://github.com/developmentseed/ol_dccph2010_demo.git
-projects[ol_dccph2010_demo][subdir] = contrib
+projects[ol_dccph2010_demo][download][url] = git://github.com/zzolo/ol_dccph2010_demo.git
+projects[ol_dccph2010_demo][subdir] = custom
 
 
 ; Themes
@@ -71,7 +71,6 @@ libraries[jquery_ui][download][type] = "get"
 libraries[jquery_ui][download][url] = "http://jquery-ui.googlecode.com/files/jquery.ui-1.6.zip"
 libraries[jquery_ui][directory_name] = "jquery.ui"
 libraries[jquery_ui][destination] = "modules/contrib/jquery_ui"
-; TODO: a more complete version of OL.js
-;libraries[openlayers][download][type] = "get"
-;libraries[openlayers][download][url] = "http://cloud.github.com/downloads/developmentseed/openlayers_slim/openlayers_slim-v1-5.tar.gz"
-;libraries[openlayers][directory_name] = "openlayers"
+libraries[openlayers][download][type] = "get"
+libraries[openlayers][download][url] = "http://openlayers.org/download/OpenLayers-2.9.1.zip"
+libraries[openlayers][directory_name] = "openlayers"
