@@ -1,3 +1,4 @@
+#!/bin/bash
 # $Id$
 
 ###
@@ -5,15 +6,25 @@
 #
 ###
 
+DRUSH='drush';
+
 # Modules
-drush -y en views views_ui content content_copy fieldgroup nodereference number optionwidgets text userreference ctools admin_menu features strongarm devel imageapi imageapi_gd imagecache imagecache_ui filefield imagefield jquery_update jquery_ui libraries openlayers openlayers_ui openlayers_views openlayers_cck openlayers_test diff
+$DRUSH -y en views views_ui content content_copy fieldgroup nodereference number optionwidgets text userreference ctools admin_menu features strongarm devel imageapi imageapi_gd imagecache imagecache_ui filefield imagefield jquery_update jquery_ui libraries openlayers openlayers_ui openlayers_views openlayers_cck openlayers_test diff
 
 # This module
-drush -y en ol_dccph2010_demo
+$DRUSH -y en ol_dccph2010_demo
+
+# Is there a URL to use for local tiles
+if [ "$1" = "" ]; then
+  echo "Using remote OSM tiles."
+else
+  $DRUSH -y vset ol_dccph2010_demo_local_osm_layer "$1"
+  echo "Using local OSM tiles."
+fi
 
 # Features
-drush -y ol_dccph2010_demo_site_variables
+$DRUSH -y en ol_dccph2010_demo_site_variables
 
 
 # Cron
-drush cron
+$DRUSH cron

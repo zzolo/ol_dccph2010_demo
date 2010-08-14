@@ -45,6 +45,19 @@ function ol_dccph2010_demo_menu() {
 }
 
 /**
+ * Implements hook_ctools_plugin_api().
+ */
+function ol_dccph2010_demo_ctools_plugin_api($module, $api) {
+  if ($module == "openlayers") {
+    switch ($api) {
+      case 'openlayers_layers':
+        return array('version' => 1);
+
+    }
+  }
+}
+
+/**
  * Implements hook_openlayers_layer_types().
  */
 function ol_dccph2010_demo_openlayers_layer_types() {
@@ -63,4 +76,32 @@ function ol_dccph2010_demo_openlayers_layer_types() {
       ),
     ),
   );
+}
+
+/**
+ * Implements hook_openlayers_layers().
+ */
+function ol_dccph2010_demo_openlayers_layers() {
+  $layers = array();
+
+  // OpenStreetMap Mapnik
+  $layer = new stdClass();
+  $layer->api_version = 1;
+  $layer->name = 'ol_dccph2010_demo_osm_mapnik';
+  $layer->title = 'OL Demo > OSM Mapnik';
+  $layer->description = 'A Custom OSM Mapnik layer';
+  $layer->data = array(
+    'baselayer' => TRUE,
+    'projection' => array('900913'),
+    'layer_type' => 'openlayers_layer_type_osm_custom',
+    'url' => 'http://tile.openstreetmap.org/${z}/${x}/${y}.png',
+  );
+
+  // In order to support local tiles, we have a switch here.
+  if ($url = variable_get('ol_dccph2010_demo_local_osm_layer', '')) {
+    $layer->data['url'] = $url;
+  }
+
+  $layers[$layer->name] = $layer;
+  return $layers;
 }
