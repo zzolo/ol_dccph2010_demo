@@ -1,0 +1,15 @@
+<?php
+// $Id$
+
+/**
+ * @file
+ * Functions for the enabling and installing of the OL Demo module.
+ */
+
+/**
+ * Implements hook_uninstall().
+ */
+function ol_dccph2010_demo_uninstall() {
+  // Remove variables
+  variable_del('ol_dccph2010_demo_local_osm_layer');
+}

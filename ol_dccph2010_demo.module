@@ -19,8 +19,29 @@ function ol_dccph2010_demo_help($path, $arg) {
     case 'admin/help#ol_dccph2010_demo':
       $output = '<p>'. t('A module to help with OpenLayers Demo for
         DrupalCon Copenhagen 2010.') .'</p>';
+        
+    case 'admin/settings/ol_dccph2010_demo':
+      $output = '<p>'. t('The following are settings for the OpenLayers
+        Demo module.') .'</p>';
   }
   return '';
+}
+
+/**
+ * Implements hook_menu().
+ */
+function ol_dccph2010_demo_menu() {
+  $items = array();
+  $items['admin/settings/ol_dccph2010_demo'] = array(
+    'title' => 'OpenLayers Demo',
+    'description' => 'Settings for the OpenLayers Demo.',
+    'page callback' => 'drupal_get_form',
+    'page arguments' => array('ol_dccph2010_demo_admin_form'),
+    'access arguments' => array('administer site configuration'),
+    'file' => 'includes/ol_dccph2010_demo.admin.inc',
+    'type' => MENU_NORMAL_ITEM,
+  );
+  return $items;
 }
 
 /**
