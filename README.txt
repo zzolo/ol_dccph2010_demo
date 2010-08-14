@@ -27,6 +27,12 @@ Install
 
 
 
+Notes
+-----------------------------
+In an ideal world, this would be a make file and install profile.
+
+
+
 Credits
 -----------------------------
 OpenLayers images and styles taken from Managing News (by Development Seed)
