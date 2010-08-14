@@ -1,0 +1,45 @@
+<?php
+// $Id$
+
+/**
+ * @file
+ * Main OpenLayers Demo File
+ *
+ * This file holds the main Drupal hook functions,
+ * for the OpenLayers demo module.
+ *
+ * @ingroup openlayers
+ */
+
+/**
+ * Implements hook_help().
+ */
+function ol_dccph2010_demo_help($path, $arg) {
+  switch ($path) {
+    case 'admin/help#ol_dccph2010_demo':
+      $output = '<p>'. t('A module to help with OpenLayers Demo for
+        DrupalCon Copenhagen 2010.') .'</p>';
+  }
+  return '';
+}
+
+/**
+ * Implements hook_openlayers_layer_types().
+ */
+function ol_dccph2010_demo_openlayers_layer_types() {
+  // This is a custom OSM layer minimalized so that local
+  // tiles can be served.  Shoudl go upstream, but time does 
+  // not allow at the moment.
+  return array(
+    'openlayers_layer_type_osm_custom' => array(
+      'title' => t('OSM Custom'),
+      'description' => t('A layer type for OpenStreetMap tiles (customized for this demo), which is essentially a focused implementation of the XYZ layer type.'),
+      'layer_type' => array(
+        'path' => drupal_get_path('module', 'ol_dccph2010_demo') . '/includes/layer_types',
+        'file' => 'osm_custom.inc',
+        'class' => 'openlayers_layer_type_osm_custom',
+        'parent' => 'openlayers_layer_type',
+      ),
+    ),
+  );
+}

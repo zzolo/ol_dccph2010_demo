@@ -1,0 +1,8 @@
+; $Id$
+name = "OpenLayers Demo"
+description = "This module is a set of features and other tweaks for an OpenLayers Demo for DrupalCon Copenhagen 2010."
+core = "6.x"
+dependencies[] = "openlayers"
+package = "OpenLayers"
+
+
