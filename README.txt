@@ -1,10 +1,19 @@
 This is a Drupal module, make file, install script, and set of features
-to create a demo site for the Drupal OpenLayers module.
+to create a demo site for the Drupal OpenLayers module.  Specifically
+used for a presentation at DrupalCon Copenhagen 2010:
+
+http://cph2010.drupal.org/sessions/mapping-drupal-openlayers
 
 
 Install
 -----------------------------
 (in theory)
+
+0) (Optional) Use the following script to download OSM
+   tiles locally (helpful for a presentation).  You'll have
+   to change values manually.
+   
+   php other/get_osm_tiles.php  
 
 1) Make build with drush:
 
