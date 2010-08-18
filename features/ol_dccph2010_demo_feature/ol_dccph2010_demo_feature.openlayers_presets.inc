@@ -14,7 +14,7 @@ function ol_dccph2010_demo_feature_openlayers_presets() {
   $openlayers_presets->data = array(
     'width' => 'auto',
     'height' => '550px',
-    'image_path' => 'sites/all/modules/contrib/ol_dccph2010_demo/images/',
+    'image_path' => drupal_get_path('module', 'ol_dccph2010_demo') . '/images/',
     'css_path' => '',
     'proxy_host' => '',
     'hide_empty_map' => 0,
@@ -73,7 +73,7 @@ function ol_dccph2010_demo_feature_openlayers_presets() {
   $openlayers_presets->data = array(
     'width' => 'auto',
     'height' => '550px',
-    'image_path' => 'sites/all/modules/contrib/ol_dccph2010_demo/images/',
+    'image_path' => drupal_get_path('module', 'ol_dccph2010_demo') . '/images/',
     'css_path' => '',
     'proxy_host' => '',
     'hide_empty_map' => 0,
@@ -125,7 +125,7 @@ function ol_dccph2010_demo_feature_openlayers_presets() {
   $openlayers_presets->data = array(
     'width' => 'auto',
     'height' => '550px',
-    'image_path' => 'sites/all/modules/contrib/ol_dccph2010_demo/images/',
+    'image_path' => drupal_get_path('module', 'ol_dccph2010_demo') . '/images/',
     'css_path' => '',
     'proxy_host' => '',
     'hide_empty_map' => 0,
@@ -177,7 +177,7 @@ function ol_dccph2010_demo_feature_openlayers_presets() {
   $openlayers_presets->data = array(
     'width' => 'auto',
     'height' => '550px',
-    'image_path' => 'sites/all/modules/contrib/ol_dccph2010_demo/images/',
+    'image_path' => drupal_get_path('module', 'ol_dccph2010_demo') . '/images/',
     'css_path' => '',
     'proxy_host' => '',
     'hide_empty_map' => 0,
@@ -232,7 +232,7 @@ function ol_dccph2010_demo_feature_openlayers_presets() {
   $openlayers_presets->data = array(
     'width' => 'auto',
     'height' => '550px',
-    'image_path' => 'sites/all/modules/contrib/ol_dccph2010_demo/images/',
+    'image_path' => drupal_get_path('module', 'ol_dccph2010_demo') . '/images/',
     'css_path' => '',
     'proxy_host' => '',
     'hide_empty_map' => 0,
@@ -301,7 +301,7 @@ function ol_dccph2010_demo_feature_openlayers_presets() {
   $openlayers_presets->data = array(
     'width' => 'auto',
     'height' => '400px',
-    'image_path' => 'sites/all/modules/contrib/ol_dccph2010_demo/images/',
+    'image_path' => drupal_get_path('module', 'ol_dccph2010_demo') . '/images/',
     'css_path' => '',
     'proxy_host' => '',
     'hide_empty_map' => 0,
@@ -351,7 +351,7 @@ function ol_dccph2010_demo_feature_openlayers_presets() {
   $openlayers_presets->data = array(
     'width' => 'auto',
     'height' => '300px',
-    'image_path' => 'sites/all/modules/contrib/ol_dccph2010_demo/images/',
+    'image_path' => drupal_get_path('module', 'ol_dccph2010_demo') . '/images/',
     'css_path' => '',
     'proxy_host' => '',
     'hide_empty_map' => 0,
@@ -402,7 +402,7 @@ function ol_dccph2010_demo_feature_openlayers_presets() {
   $openlayers_presets->data = array(
     'width' => 'auto',
     'height' => '300px',
-    'image_path' => 'sites/all/modules/contrib/ol_dccph2010_demo/images/',
+    'image_path' => drupal_get_path('module', 'ol_dccph2010_demo') . '/images/',
     'css_path' => '',
     'proxy_host' => '',
     'hide_empty_map' => 0,
