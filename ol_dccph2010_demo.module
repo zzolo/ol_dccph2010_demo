@@ -75,6 +75,16 @@ function ol_dccph2010_demo_openlayers_layer_types() {
         'parent' => 'openlayers_layer_type',
       ),
     ),
+    'openlayers_layer_type_georss_custom' => array(
+      'title' => t('GeoRSS Custom'),
+      'description' => t('A layer type for GeoRSS feeds.'),
+      'layer_type' => array(
+        'path' => drupal_get_path('module', 'ol_dccph2010_demo') . '/includes/layer_types',
+        'file' => 'georss_custom.inc',
+        'class' => 'openlayers_layer_type_georss_custom',
+        'parent' => 'openlayers_layer_type',
+      ),
+    ),
   );
 }
 

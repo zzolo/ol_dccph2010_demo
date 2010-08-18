@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml">
+<channel>
+  <link>http://maps.google.com</link>
+  <title>DrupalCon Copenhagen 2010</title>
+  <description><![CDATA[Venues, hotels, and other POIs.]]></description>
+  <item>
+    <guid isPermaLink="false">000487b93af0e2aaa9b66</guid>
+    <pubDate>Sat, 29 May 2010 10:38:54 +0000</pubDate>
+    <title>Bella Center</title>
+    <description><![CDATA[<div dir="ltr">DrupalCon venue</div>]]></description>
+    <author>psyke.org</author>
+    <georss:point>
+      55.638481 12.577105
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">00048c58918bcf89b478f</guid>
+    <pubDate>Tue, 27 Jul 2010 06:25:33 +0000</pubDate>
+    <title>Republikken</title>
+    <description><![CDATA[Core Developer Summit and ChX Coders Lounge<br><br><img src="http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=55.672893,12.558204&amp;thumb=0">]]></description>
+    <author>psyke.org</author>
+    <georss:point>
+      55.672894 12.558204
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">00048c58a827fcad3bc7e</guid>
+    <pubDate>Tue, 27 Jul 2010 06:31:53 +0000</pubDate>
+    <title>The Australian Bar</title>
+    <description><![CDATA[Location of the first ever FooBar<br><br><img src="http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=55.677806,12.570558&amp;thumb=0">]]></description>
+    <author>psyke.org</author>
+    <georss:point>
+      55.677818 12.570532
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">00048792fefea8c5066f6</guid>
+    <pubDate>Thu, 27 May 2010 13:01:59 +0000</pubDate>
+    <title>Copenhagen Airport (CPH)</title>
+    <description><![CDATA[<div dir="ltr">Terminal 3, international arrivals.</div>]]></description>
+    <author>rasmusfrey</author>
+    <georss:point>
+      55.628777 12.649405
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">0004879320cb3ab75098e</guid>
+    <pubDate>Thu, 27 May 2010 13:11:26 +0000</pubDate>
+    <title>Radisson Blu Scandinavia Hotel</title>
+    <description><![CDATA[<div dir="ltr">＊＊＊＊<br>Main conference hotel</div>]]></description>
+    <author>psyke.org</author>
+    <georss:point>
+      55.667397 12.587049
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">00048792ff875f412bd1b</guid>
+    <pubDate>Thu, 27 May 2010 13:02:08 +0000</pubDate>
+    <title>First Hotel Skt. Petri</title>
+    <description><![CDATA[<div dir="ltr">＊＊＊＊＊</div>]]></description>
+    <author>psyke.org</author>
+    <georss:point>
+      55.680592 12.571844
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">00048793280b583e540c8</guid>
+    <pubDate>Thu, 27 May 2010 13:13:28 +0000</pubDate>
+    <title>Best Western Mercur Hotel</title>
+    <description><![CDATA[<div dir="ltr">＊＊＊</div>]]></description>
+    <author>psyke.org</author>
+    <georss:point>
+      55.676640 12.561868
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487932aa7ad564b07d</guid>
+    <pubDate>Thu, 27 May 2010 13:14:12 +0000</pubDate>
+    <title>Best Western Richmond Hotel</title>
+    <description><![CDATA[<div dir="ltr">＊＊＊</div>]]></description>
+    <author>psyke.org</author>
+    <georss:point>
+      55.678261 12.562490
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487932d6c25529efa5</guid>
+    <pubDate>Thu, 27 May 2010 13:14:58 +0000</pubDate>
+    <title>Cab Inn City</title>
+    <description><![CDATA[<div dir="ltr">＊＊</div>]]></description>
+    <author>psyke.org</author>
+    <georss:point>
+      55.669930 12.571245
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">0004879331d6a37322043</guid>
+    <pubDate>Thu, 27 May 2010 13:16:12 +0000</pubDate>
+    <title>Cab Inn Metro</title>
+    <description><![CDATA[<div dir="ltr">＊＊</div>]]></description>
+    <author>psyke.org</author>
+    <georss:point>
+      55.631134 12.572468
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487933bfdb9277063e</guid>
+    <pubDate>Thu, 27 May 2010 13:19:03 +0000</pubDate>
+    <title>Cab Inn Scandinavia</title>
+    <description><![CDATA[<div dir="ltr">＊＊</div>]]></description>
+    <author>psyke.org</author>
+    <georss:point>
+      55.681149 12.555373
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487a55214e7c468552</guid>
+    <pubDate>Fri, 28 May 2010 10:53:43 +0000</pubDate>
+    <title>Danhostel Copenhagen Amager</title>
+    <author>psyke.org</author>
+    <georss:point>
+      55.642288 12.573691
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487a5528e510aafaa7</guid>
+    <pubDate>Fri, 28 May 2010 10:53:51 +0000</pubDate>
+    <title>Danhostel Copenhagen Downtown</title>
+    <author>psyke.org</author>
+    <georss:point>
+      55.676117 12.574410
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487a5530ae131ec6fd</guid>
+    <pubDate>Fri, 28 May 2010 10:53:59 +0000</pubDate>
+    <title>Danhostel Copenhagen City</title>
+    <author>psyke.org</author>
+    <georss:point>
+      55.670967 12.577026
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">0004879363551e276b904</guid>
+    <pubDate>Thu, 27 May 2010 13:30:03 +0000</pubDate>
+    <title>Halifax</title>
+    <description><![CDATA[<div dir="ltr">The best burgers in town</div>]]></description>
+    <author>psyke.org</author>
+    <georss:point>
+      55.685501 12.566906
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">0004879363c2fab6daa1d</guid>
+    <pubDate>Thu, 27 May 2010 13:30:10 +0000</pubDate>
+    <title>Halifax II</title>
+    <description><![CDATA[<div dir="ltr">The best burgers in town</div>]]></description>
+    <author>psyke.org</author>
+    <georss:point>
+      55.678146 12.569677
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487937d6212ca5c6a9</guid>
+    <pubDate>Thu, 27 May 2010 13:37:20 +0000</pubDate>
+    <title>Kalaset</title>
+    <description><![CDATA[<img src="http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=55.684580,12.566730">]]></description>
+    <author>psyke.org</author>
+    <georss:point>
+      55.684582 12.566730
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487937a69d1aaee758</guid>
+    <pubDate>Thu, 27 May 2010 13:36:30 +0000</pubDate>
+    <title>Café Bankeråt</title>
+    <description><![CDATA[<img src="http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=55.683475,12.565229">]]></description>
+    <author>psyke.org</author>
+    <georss:point>
+      55.683475 12.565229
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487937a01b648bf518</guid>
+    <pubDate>Thu, 27 May 2010 13:36:23 +0000</pubDate>
+    <title>Pizzeria La Fiorita v/Antonio Ratta</title>
+    <description><![CDATA[<img src="http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=55.683127,12.566221">]]></description>
+    <author>psyke.org</author>
+    <georss:point>
+      55.683128 12.566221
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">00048793797ef53331c45</guid>
+    <pubDate>Thu, 27 May 2010 13:36:15 +0000</pubDate>
+    <title>Kødbyens Fiskebar</title>
+    <description><![CDATA[Fish restaurant<br><br><img src="http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=55.668031,12.559181">]]></description>
+    <author>psyke.org</author>
+    <georss:point>
+      55.668030 12.559181
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">0004879378ab557476c9a</guid>
+    <pubDate>Thu, 27 May 2010 13:36:01 +0000</pubDate>
+    <title>Aamanns Etablissement</title>
+    <description><![CDATA[Smørrebrød<br><br><img src="http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=55.690133,12.575038">]]></description>
+    <author>psyke.org</author>
+    <georss:point>
+      55.690132 12.575038
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">0004879394f1712eb6bec</guid>
+    <pubDate>Thu, 27 May 2010 13:43:55 +0000</pubDate>
+    <title>BioMio</title>
+    <description><![CDATA[<div dir="ltr">Organic food</div>]]></description>
+    <author>psyke.org</author>
+    <georss:point>
+      55.669285 12.558519
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">00048797b0eeb3b599131</guid>
+    <pubDate>Thu, 27 May 2010 18:38:05 +0000</pubDate>
+    <title>Spiseloppen</title>
+    <description><![CDATA[<div dir="ltr">Great restaurant at Christiania.<br>http://www.spiseloppen.dk/</div>]]></description>
+    <author>rasmusfrey</author>
+    <georss:point>
+      55.673855 12.597172
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487cdb4f51456c4511</guid>
+    <pubDate>Sun, 30 May 2010 11:04:40 +0000</pubDate>
+    <title>Mikkeller Bar</title>
+    <description><![CDATA[<img src="http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=55.672051,12.557573&amp;thumb=0">]]></description>
+    <author>psyke.org</author>
+    <georss:point>
+      55.672050 12.557573
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">00048793503ee6d89b2ed</guid>
+    <pubDate>Thu, 27 May 2010 13:24:43 +0000</pubDate>
+    <title>BrewPub</title>
+    <description><![CDATA[Brewery, pub, and restaurant<br>]]></description>
+    <author>psyke.org</author>
+    <georss:point>
+      55.677040 12.569135
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487935804ef2504186</guid>
+    <pubDate>Thu, 27 May 2010 13:26:53 +0000</pubDate>
+    <title>Charlie&#39;s Bar</title>
+    <description><![CDATA[<div dir="ltr">Has great selection of british beer</div>]]></description>
+    <author>psyke.org</author>
+    <georss:point>
+      55.680725 12.580358
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487938204611f08bd2</guid>
+    <pubDate>Thu, 27 May 2010 13:38:38 +0000</pubDate>
+    <title>Bar 7</title>
+    <description><![CDATA[<div dir="ltr">Cocktail bar</div>]]></description>
+    <author>psyke.org</author>
+    <georss:point>
+      55.679195 12.571389
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">0004879382e689c2dc6d9</guid>
+    <pubDate>Thu, 27 May 2010 13:38:52 +0000</pubDate>
+    <title>Wessels Kro</title>
+    <description><![CDATA[]]></description>
+    <author>psyke.org</author>
+    <georss:point>
+      55.681141 12.580787
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">0004879380d755ed31337</guid>
+    <pubDate>Thu, 27 May 2010 13:38:18 +0000</pubDate>
+    <title>K</title>
+    <description><![CDATA[Cocktail bar<br><br><img src="http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=55.677752,12.580267">]]></description>
+    <author>psyke.org</author>
+    <georss:point>
+      55.677753 12.580267
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487938099faeaa1050</guid>
+    <pubDate>Thu, 27 May 2010 13:38:14 +0000</pubDate>
+    <title>Ruby</title>
+    <description><![CDATA[Cocktail bar<br><br><img src="http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=55.676664,12.576722">]]></description>
+    <author>psyke.org</author>
+    <georss:point>
+      55.676662 12.576722
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487937edeeaccc4119</guid>
+    <pubDate>Thu, 27 May 2010 13:37:45 +0000</pubDate>
+    <title>Bobi Bar</title>
+    <description><![CDATA[<img src="http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=55.681129,12.578635">]]></description>
+    <author>psyke.org</author>
+    <georss:point>
+      55.681129 12.578635
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487937e7d0e9e22989</guid>
+    <pubDate>Thu, 27 May 2010 13:37:38 +0000</pubDate>
+    <title>Bibendum</title>
+    <description><![CDATA[Great Wine Bar, http://www.vincafe.dk/<br><img src="http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=55.683657,12.565266"><br><br>]]></description>
+    <author>rasmusfrey</author>
+    <georss:point>
+      55.683659 12.565266
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">0004879396246ce4a4606</guid>
+    <pubDate>Thu, 27 May 2010 13:44:15 +0000</pubDate>
+    <title>Palæ Bar</title>
+    <author>psyke.org</author>
+    <georss:point>
+      55.681133 12.584287
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487a3298efa66a5753</guid>
+    <pubDate>Fri, 28 May 2010 08:19:13 +0000</pubDate>
+    <title>Baren Floss</title>
+    <description><![CDATA[]]></description>
+    <author>psyke.org</author>
+    <georss:point>
+      55.678204 12.569619
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487a33215be3edbae0</guid>
+    <pubDate>Fri, 28 May 2010 08:21:36 +0000</pubDate>
+    <title>Byens Kro</title>
+    <description><![CDATA[]]></description>
+    <author>psyke.org</author>
+    <georss:point>
+      55.681622 12.579217
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">00048793678abf0364680</guid>
+    <pubDate>Thu, 27 May 2010 13:31:13 +0000</pubDate>
+    <title>Risteriet</title>
+    <description><![CDATA[]]></description>
+    <author>psyke.org</author>
+    <georss:point>
+      55.678005 12.567843
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487936b0ab1b808d5f</guid>
+    <pubDate>Thu, 27 May 2010 13:32:12 +0000</pubDate>
+    <title>Sort Kaffe &amp; Vinyl</title>
+    <description><![CDATA[<img src="http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=55.668885,12.554113">]]></description>
+    <author>psyke.org</author>
+    <georss:point>
+      55.668884 12.554113
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487936b9f4192b392e</guid>
+    <pubDate>Thu, 27 May 2010 13:32:22 +0000</pubDate>
+    <title>Ricco&#39;s Butik og Kaffebar</title>
+    <description><![CDATA[<img src="http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=55.678419,12.569006">]]></description>
+    <author>psyke.org</author>
+    <georss:point>
+      55.678417 12.569006
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">00048797a95ee2eb0df86</guid>
+    <pubDate>Thu, 27 May 2010 18:35:58 +0000</pubDate>
+    <title>Christiania</title>
+    <description><![CDATA[<div dir="ltr">http://www.christiania.org/</div>]]></description>
+    <author>rasmusfrey</author>
+    <georss:point>
+      55.674210 12.597542
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487cdbbc9ef5991a19</guid>
+    <pubDate>Sun, 30 May 2010 11:06:35 +0000</pubDate>
+    <title>Illums Bolighus</title>
+    <description><![CDATA[<div dir="ltr">Danish design mecca</div>]]></description>
+    <author>psyke.org</author>
+    <georss:point>
+      55.678852 12.579265
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487cdbfada8bdae588</guid>
+    <pubDate>Sun, 30 May 2010 11:07:40 +0000</pubDate>
+    <title>Museums Kopi Smykker</title>
+    <description><![CDATA[<div dir="ltr">Sells replicas of viking age jewelry</div>]]></description>
+    <author>psyke.org</author>
+    <georss:point>
+      55.680843 12.582018
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487cdc5ae5c0ac2f63</guid>
+    <pubDate>Sun, 30 May 2010 11:09:21 +0000</pubDate>
+    <title>Normann Copenhagen</title>
+    <description><![CDATA[]]></description>
+    <author>psyke.org</author>
+    <georss:point>
+      55.699230 12.578154
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487d1a019f5aef0fe9</guid>
+    <pubDate>Sun, 30 May 2010 15:45:10 +0000</pubDate>
+    <title>The Queens home</title>
+    <description><![CDATA[<div dir="ltr">This is where our Queen Margrethe II live.<br>http://www.kongehuset.dk/english/</div>]]></description>
+    <author>rasmusfrey</author>
+    <georss:point>
+      55.683983 12.593293
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487d1ae85d527bc495</guid>
+    <pubDate>Sun, 30 May 2010 15:49:12 +0000</pubDate>
+    <title>National Gallery of Denmark</title>
+    <description><![CDATA[<div dir="ltr">http://www.smk.dk/en/</div>]]></description>
+    <author>rasmusfrey</author>
+    <georss:point>
+      55.688595 12.578423
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487d1b5bc91e07af34</guid>
+    <pubDate>Sun, 30 May 2010 15:51:13 +0000</pubDate>
+    <title>The little Mermaid</title>
+    <description><![CDATA[<div dir="ltr">She is not home though.. She is in Shanghai at the Danish Pavilion for the duration of the Expo 2010.</div>]]></description>
+    <author>rasmusfrey</author>
+    <georss:point>
+      55.692856 12.599264
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487d1c412507a31c63</guid>
+    <pubDate>Sun, 30 May 2010 15:55:14 +0000</pubDate>
+    <title>Halvandet</title>
+    <description><![CDATA[<div dir="ltr">Restaurant, Beachclub and Bar<br>http://www.halvandet.dk/</div>]]></description>
+    <author>rasmusfrey</author>
+    <georss:point>
+      55.695576 12.608528
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487d1cb74d6d374b96</guid>
+    <pubDate>Sun, 30 May 2010 15:57:18 +0000</pubDate>
+    <title>The Beach</title>
+    <description><![CDATA[<div dir="ltr">http://www.amager-strand.dk/ServiceMenu/English</div>]]></description>
+    <author>rasmusfrey</author>
+    <georss:point>
+      55.655148 12.647624
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487d3e7cf0a5df3dce</guid>
+    <pubDate>Sun, 30 May 2010 18:28:23 +0000</pubDate>
+    <title>Another beach</title>
+    <description><![CDATA[]]></description>
+    <author>rasmusfrey</author>
+    <georss:point>
+      55.777779 12.592392
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487de6631dd007541f</guid>
+    <pubDate>Mon, 31 May 2010 06:59:33 +0000</pubDate>
+    <title>Cafe Viking</title>
+    <description><![CDATA[<div dir="ltr">http://www.cafeviking.dk/<br>Mainly added this because it had Vikng in the name :) But there is beer and party as well.<br><br>Tweeted by Beltofte: Drinking Mikkeller Amarillo single hop ipa at cafe viking. Crazy cheap only DKK 40<br>Follow up by mortendk: @beltofte cafe viking a legendary spot!  at cafe geek Royale we have all the single hops for free ;)</div>]]></description>
+    <author>rasmusfrey</author>
+    <georss:point>
+      55.699642 12.546644
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487de7694ed64121d6</guid>
+    <pubDate>Mon, 31 May 2010 07:04:08 +0000</pubDate>
+    <title>Viking for a day</title>
+    <description><![CDATA[<div dir="ltr">Sail a real viking ship and eat the traditional Viking buffet.<br><br>http://www.maritimtforsoegscenter.dk/MFCengelskforside1.htm</div>]]></description>
+    <author>rasmusfrey</author>
+    <georss:point>
+      55.680004 11.943769
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487de8dc043f66d1c7</guid>
+    <pubDate>Mon, 31 May 2010 07:10:37 +0000</pubDate>
+    <title>Vikingship museum</title>
+    <description><![CDATA[<div dir="ltr">Want to code like a Viking... It ain&apos;t happening unless you go see this!<br><br>http://www.vikingeskibsmuseet.dk/index.php?id=1246&amp;no_cache=1&amp;L=1</div>]]></description>
+    <author>rasmusfrey</author>
+    <georss:point>
+      55.649372 12.078803
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487de96db24343c38c</guid>
+    <pubDate>Mon, 31 May 2010 07:13:10 +0000</pubDate>
+    <title>Kronborg Castle</title>
+    <description><![CDATA[<div dir="ltr">As made famous by Shakespeare in Hamlet.<br><br>http://kronborg.dk/en.aspx</div>]]></description>
+    <author>rasmusfrey</author>
+    <georss:point>
+      56.039013 12.621703
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487de9e0f471ec04f6</guid>
+    <pubDate>Mon, 31 May 2010 07:15:11 +0000</pubDate>
+    <title>Louisiana Museum of modern art</title>
+    <description><![CDATA[<div dir="ltr">Interested in art, you have to go here.<br><br>http://www.louisiana.dk/dk/Service+Menu+Right/English</div>]]></description>
+    <author>rasmusfrey</author>
+    <georss:point>
+      55.969357 12.542396
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487e3274a0d67b33c0</guid>
+    <pubDate>Mon, 31 May 2010 12:39:53 +0000</pubDate>
+    <title>Shoot to Thrill / Paintball</title>
+    <description><![CDATA[<div dir="ltr">I you want the thrill of shooting your fellow Drupal coder in the head.... Without hurting him :)<br><br>http://www.kongelunden.dk/ccount/click.php?id=1</div>]]></description>
+    <author>rasmusfrey</author>
+    <georss:point>
+      55.586769 12.581674
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487e335d91e3410af7</guid>
+    <pubDate>Mon, 31 May 2010 12:43:57 +0000</pubDate>
+    <title>Nyhavn</title>
+    <description><![CDATA[<div dir="ltr">http://www.google.dk/images?q=nyhavn&amp;oe=utf-8&amp;rls=org.mozilla:en-US:official&amp;client=firefox-a&amp;um=1&amp;ie=UTF-8&amp;source=univ&amp;ei=Gq8DTOLFCo-aOL-WjdcE&amp;sa=X&amp;oi=image_result_group&amp;ct=title&amp;resnum=4&amp;ved=0CEEQsAQwAw</div>]]></description>
+    <author>rasmusfrey</author>
+    <georss:point>
+      55.680199 12.588358
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487e340aea553fb724</guid>
+    <pubDate>Mon, 31 May 2010 12:46:59 +0000</pubDate>
+    <title>Copenhagen Skate Park</title>
+    <description><![CDATA[<div dir="ltr">http://kubik.kk.dk/copenhagenskatepark</div>]]></description>
+    <author>rasmusfrey</author>
+    <georss:point>
+      55.662224 12.540979
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487e3444bf6e443bb4</guid>
+    <pubDate>Mon, 31 May 2010 12:47:59 +0000</pubDate>
+    <title>Soccer fields</title>
+    <description><![CDATA[<div dir="ltr">If anyone need to settle a dispute over a quick soccer match... Or just want to have fun.</div>]]></description>
+    <author>rasmusfrey</author>
+    <georss:point>
+      55.672443 12.608356
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487e34f5293143a4e5</guid>
+    <pubDate>Mon, 31 May 2010 12:51:04 +0000</pubDate>
+    <title>Nemoland</title>
+    <description><![CDATA[<div dir="ltr">http://www.nemoland.dk/</div>]]></description>
+    <author>rasmusfrey</author>
+    <georss:point>
+      55.672897 12.600178
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487e34f52ea64b59f4</guid>
+    <pubDate>Mon, 31 May 2010 12:51:05 +0000</pubDate>
+    <title>Månefiskeren</title>
+    <description><![CDATA[<div dir="ltr">http://www.maanefiskeren.dk/</div>]]></description>
+    <author>rasmusfrey</author>
+    <georss:point>
+      55.673508 12.601520
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487e36ee809ea06d99</guid>
+    <pubDate>Mon, 31 May 2010 12:59:54 +0000</pubDate>
+    <title>The National Museum</title>
+    <description><![CDATA[<div dir="ltr">http://www.nationalmuseet.dk/sw20374.asp</div>]]></description>
+    <author>rasmusfrey</author>
+    <georss:point>
+      55.674171 12.575612
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487e372857109b980d</guid>
+    <pubDate>Mon, 31 May 2010 13:00:55 +0000</pubDate>
+    <title>Danish Design Center</title>
+    <description><![CDATA[<div dir="ltr">http://en.ddc.dk/</div>]]></description>
+    <author>rasmusfrey</author>
+    <georss:point>
+      55.674210 12.571642
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487e37621256ba1318</guid>
+    <pubDate>Mon, 31 May 2010 13:01:56 +0000</pubDate>
+    <title>Tivoli</title>
+    <description><![CDATA[<div dir="ltr">http://www.tivoli.dk/composite-3351.htm</div>]]></description>
+    <author>rasmusfrey</author>
+    <georss:point>
+      55.674694 12.565656
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487e37d148bd15327e</guid>
+    <pubDate>Mon, 31 May 2010 13:03:52 +0000</pubDate>
+    <title>Dansh Parliament</title>
+    <description><![CDATA[<div dir="ltr">http://www.ft.dk/English.aspx</div>]]></description>
+    <author>rasmusfrey</author>
+    <georss:point>
+      55.676460 12.580526
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487e3844b04c9c70c1</guid>
+    <pubDate>Mon, 31 May 2010 13:05:53 +0000</pubDate>
+    <title>Ida Davidsen</title>
+    <description><![CDATA[<div dir="ltr">The best traditional danish open sandwich. A must go if you like something really danish.<br><br>Hard to get table so book in advance.<br><br>http://idadavidsen.dk/index.php?page=8</div>]]></description>
+    <author>rasmusfrey</author>
+    <georss:point>
+      55.684792 12.588186
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487e387f656cdbe589</guid>
+    <pubDate>Mon, 31 May 2010 13:06:55 +0000</pubDate>
+    <title>Rosenborg Castle</title>
+    <description><![CDATA[<div dir="ltr">Check out the Danish Crown Jewels and the Danish Crown Regalia.<br><br>http://www.rosenborgslot.dk/asp/menu/menuPages/frontpage_2.asp?countryID=2</div>]]></description>
+    <author>rasmusfrey</author>
+    <georss:point>
+      55.685665 12.577393
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487e3dedbe3257f33a</guid>
+    <pubDate>Mon, 31 May 2010 13:31:13 +0000</pubDate>
+    <title>Flyvergrillen</title>
+    <description><![CDATA[<div dir="ltr">The place Plane Spotters hang out.<br><br>http://da.wikipedia.org/wiki/Flyvergrillen</div>]]></description>
+    <author>rasmusfrey</author>
+    <georss:point>
+      55.613480 12.629986
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487e3ed3f4cd776eec</guid>
+    <pubDate>Mon, 31 May 2010 13:35:14 +0000</pubDate>
+    <title>Fields Shopping Center</title>
+    <description><![CDATA[<div dir="ltr">Want to eat, shop and stuff and don&apos;t want to move to fare away from the DrupalCon Venue then this is the place.<br><br>http://www.fields.dk/default.asp?PageID=181</div>]]></description>
+    <author>rasmusfrey</author>
+    <georss:point>
+      55.630177 12.576771
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000487e402d0fa8d81abd</guid>
+    <pubDate>Mon, 31 May 2010 13:41:16 +0000</pubDate>
+    <title>Omena Hotel</title>
+    <description><![CDATA[<div dir="ltr">Cheap hotel at 45 Euro pr. night.<br><br>http://www.omenahotels.com/</div>]]></description>
+    <author>rasmusfrey</author>
+    <georss:point>
+      55.672871 12.561799
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">0004882606fef9caa1bfb</guid>
+    <pubDate>Thu, 03 Jun 2010 20:26:54 +0000</pubDate>
+    <title>Klubben</title>
+    <description><![CDATA[Eat like a Rock Star... This is James Hetfields favorite place!<br>]]></description>
+    <author>rasmusfrey</author>
+    <georss:point>
+      55.671158 12.545754
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000488260aa2d1e40fdc0</guid>
+    <pubDate>Thu, 03 Jun 2010 20:27:55 +0000</pubDate>
+    <title>Noma</title>
+    <description><![CDATA[Won the prize as the world best restaurant in 2010<br><br>http://www.noma.dk/main.php?lang=en<br>]]></description>
+    <author>rasmusfrey</author>
+    <georss:point>
+      55.676506 12.596383
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000488261912d64429c55</guid>
+    <pubDate>Thu, 03 Jun 2010 20:31:57 +0000</pubDate>
+    <title>Burger &amp; Bun</title>
+    <description><![CDATA[Burgers made by Michelin stared chefs.<br><br>http://www.burgerbun.dk/<br>]]></description>
+    <author>rasmusfrey</author>
+    <georss:point>
+      55.669758 12.555093
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+  <item>
+    <guid isPermaLink="false">000488261cad222cf72e3</guid>
+    <pubDate>Thu, 03 Jun 2010 20:32:58 +0000</pubDate>
+    <title>Sticks n&#39; Sushi</title>
+    <description><![CDATA[Great sushi!<br>]]></description>
+    <author>rasmusfrey</author>
+    <georss:point>
+      55.683907 12.565436
+    </georss:point>
+    <georss:elev>0.000000</georss:elev>
+  </item>
+</channel>
+</rss>
