@@ -23,8 +23,10 @@ else
 fi
 
 # Features
-$DRUSH -y en ol_dccph2010_demo_site_variables
-
+$DRUSH -y en ol_dccph2010_demo_feature
 
 # Cron
 $DRUSH cron
+
+# Add just a tad of data
+drush php-eval "ol_dccph2010_demo_load_data();"
