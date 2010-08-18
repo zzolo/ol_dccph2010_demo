@@ -29,10 +29,12 @@ Install
 
 Notes
 -----------------------------
-In an ideal world, this would be a make file and install profile.
+* In an ideal world, this would be a make file and install profile.
+* Features have been altered so that they support dynamic paths better.
 
 
 
 Credits
 -----------------------------
-OpenLayers images and styles taken from Managing News (by Development Seed)
+* OpenLayers images and styles taken from Managing News (by Development Seed)
+* Some icons used from http://code.google.com/p/google-maps-icons/

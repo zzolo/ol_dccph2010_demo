@@ -27,5 +27,7 @@ function ol_dccph2010_demo_admin_form($form_state) {
     '#default_value' => variable_get('ol_dccph2010_demo_local_osm_layer', ''),
   );
   
+  ol_dccph2010_demo_load_data();
+  
   return system_settings_form($form);
 }

@@ -36,6 +36,8 @@ projects[jquery_update][subdir] = contrib
 projects[jquery_ui][subdir] = contrib
 projects[libraries][subdir] = contrib
 projects[diff][subdir] = contrib
+projects[token][subdir] = contrib
+projects[pathauto][token] = contrib
 
 
 ; OpenLayers

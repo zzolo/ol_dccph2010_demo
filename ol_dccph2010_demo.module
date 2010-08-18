@@ -115,3 +115,75 @@ function ol_dccph2010_demo_openlayers_layers() {
   $layers[$layer->name] = $layer;
   return $layers;
 }
+
+/**
+ * Load some nodes.
+ */
+function ol_dccph2010_demo_load_data() {
+  // Some meaningful sample data (instead of random values with
+  // Devel generate).
+  
+  // Bella Center
+  $node = new stdClass();
+  $node->type = 'ol_demo_poi';
+  $node->uid = 1;
+  $node->status = 1;
+  $node->title = 'DrupalCon Copenhagen Bella Center';
+  $node->body = '<a href="http://cph2010.drupal.org/">DrupalCon Copenhagen 2010</a> will be held at the Bella Center.';
+  $node->teaser = '<a href="http://cph2010.drupal.org/">DrupalCon Copenhagen 2010</a> will be held at the Bella Center.';
+  $node->field_ol_demo_location = array(
+    0 => array(
+      'openlayers_wkt' => 'GEOMETRYCOLLECTION(POINT(12.57986068676 55.638219024316))',
+    ),
+  );
+  $results = node_save($node);
+  drupal_set_message(t('Bella Center node created.'));
+  
+  // ChX Coders Lounge (Republikken)
+  $node = new stdClass();
+  $node->type = 'ol_demo_poi';
+  $node->uid = 1;
+  $node->status = 1;
+  $node->title = 'Republikken';
+  $node->body = 'The <a href="http://cph2010.drupal.org/news/core-developer-summit">Core Developer Summit</a> and the <a href="http://cph2010.drupal.org/chx-coders-lounge">ChX Coder Lounge</a> are held at Republikken.';
+  $node->teaser = 'The <a href="http://cph2010.drupal.org/news/core-developer-summit">Core Developer Summit</a> and the <a href="http://cph2010.drupal.org/chx-coders-lounge">ChX Coder Lounge</a> are held at Republikken.';
+  $node->field_ol_demo_location = array(
+    0 => array(
+      'openlayers_wkt' => 'GEOMETRYCOLLECTION(POINT(12.558188437916 55.673047062244))',
+    ),
+  );
+  $results = node_save($node);
+  drupal_set_message(t('Republikken node created.'));
+  
+  // fooBar
+  $node = new stdClass();
+  $node->type = 'ol_demo_poi';
+  $node->uid = 1;
+  $node->status = 1;
+  $node->title = 'The Australian (Foo)Bar';
+  $node->body = 'A bar just for DrupalCon?! How cool is that?';
+  $node->teaser = 'A bar just for DrupalCon?! How cool is that?';
+  $node->field_ol_demo_location = array(
+    0 => array(
+      'openlayers_wkt' => 'GEOMETRYCOLLECTION(POINT(12.57023650979 55.677895954772))',
+    ),
+  );
+  $results = node_save($node);
+  drupal_set_message(t('fooBar node created.'));
+  
+  // CPH Airport
+  $node = new stdClass();
+  $node->type = 'ol_demo_airports';
+  $node->uid = 1;
+  $node->status = 1;
+  $node->title = 'Copenhagen Airport CPH';
+  $node->body = 'Terminal 3 is for international arrivals.';
+  $node->teaser = 'Terminal 3 is for international arrivals.';
+  $node->field_ol_demo_location = array(
+    0 => array(
+      'openlayers_wkt' => 'GEOMETRYCOLLECTION(POINT(12.655005454527 55.626348383621))',
+    ),
+  );
+  $results = node_save($node);
+  drupal_set_message(t('CPH Airport node created.'));
+}
