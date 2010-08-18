@@ -28,7 +28,8 @@ class openlayers_layer_type_georss_custom extends openlayers_layer_type {
     return array(
       'layer_handler' => 'georss_custom',
       'baselayer' => FALSE,
-      'projection' => array('4326'),
+      'projection' => array('900913'),
+      'custom_projection' => array('4326'),
     );
   }
 

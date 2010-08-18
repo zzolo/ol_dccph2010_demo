@@ -13,7 +13,7 @@ Drupal.openlayers.layer.georss_custom = function(title, map, options) {
   if (options.maxExtent !== undefined) {
     options.maxExtent = new OpenLayers.Bounds.fromArray(options.maxExtent) || new OpenLayers.Bounds(-20037508.34, -20037508.34, 20037508.34, 20037508.34);
   }
-  options.projection = 'EPSG:'+options.projection;
+  options.projection = 'EPSG:' + options.custom_projection;
   options.sphericalMercator = true;
   var layer = new OpenLayers.Layer.GeoRSS(title, options.url, options);
   layer.styleMap = styleMap;
