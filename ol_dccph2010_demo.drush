@@ -9,7 +9,7 @@
 DRUSH='drush';
 
 # Modules
-$DRUSH -y en views views_ui content content_copy fieldgroup nodereference number optionwidgets text userreference ctools admin_menu features strongarm devel imageapi imageapi_gd imagecache imagecache_ui filefield imagefield jquery_update jquery_ui libraries openlayers openlayers_ui openlayers_views openlayers_cck openlayers_test diff token pathauto
+$DRUSH -y en views views_ui content content_copy fieldgroup nodereference number optionwidgets text userreference ctools admin_menu features strongarm devel imageapi imageapi_gd imagecache imagecache_ui filefield imagefield jquery_update jquery_ui libraries openlayers openlayers_ui openlayers_views openlayers_cck openlayers_test diff token pathauto geotaxonomy mapbox openlayers_geocoder openlayers_proximity
 
 # This module
 $DRUSH -y en ol_dccph2010_demo

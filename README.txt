@@ -35,7 +35,7 @@ Install
    bash ol_dccph2010_demo.drush '<optional_url_for_local_tiles>'
    
    The above script is very basic and depending on how you have
-   drush set up, you may to point the $DRUSH variable to another
+   drush set up, you may want to point the $DRUSH variable to another
    path.
    
    You can also put in an optional OSM template URL for the layer

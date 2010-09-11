@@ -37,7 +37,12 @@ projects[jquery_ui][subdir] = contrib
 projects[libraries][subdir] = contrib
 projects[diff][subdir] = contrib
 projects[token][subdir] = contrib
-projects[pathauto][token] = contrib
+projects[pathauto][subdir] = contrib
+projects[pathauto][subdir] = contrib
+projects[geotaxonomy][subdir] = contrib
+projects[mapbox][subdir] = contrib
+projects[openlayers_geocoder][subdir] = contrib
+projects[openlayers_proximity][subdir] = contrib
 
 
 ; OpenLayers
