@@ -4,6 +4,11 @@ used for a presentation at DrupalCon Copenhagen 2010:
 
 http://cph2010.drupal.org/sessions/mapping-drupal-openlayers
 
+Once running, this is a good example of this module, but it is built on
+a number of Drupal related technologies that require a higher
+level of knowledge, so this may not be the best way to learn about
+this module.
+
 
 Install
 -----------------------------
@@ -18,6 +23,10 @@ Install
 1) Make build with drush:
 
    drush make ol_dccph2010_demo.make <your_directory>
+   
+   The make file should not be in the module directory, as 
+   drush_make is smart and reads any included make files.
+   This means that you will have to ... (not sure best solution).
 
 2) Run through Drupal install
 
