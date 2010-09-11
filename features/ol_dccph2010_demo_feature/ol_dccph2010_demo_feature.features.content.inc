@@ -125,9 +125,8 @@ function ol_dccph2010_demo_feature_content_default_fields() {
   );
 
   // Translatables
-  array(
-    t('Location'),
-  );
+  // Included for use with string extractors like potx.
+  t('Location');
 
   return $fields;
 }

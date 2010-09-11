@@ -12,7 +12,7 @@ function ol_dccph2010_demo_feature_openlayers_layers() {
   $openlayers_layers->title = 'OL Demo > GeoRSS DCCPH Map';
   $openlayers_layers->description = 'A GeoRSS example of the DCCPH 2010 Map feed.';
   $openlayers_layers->data = array(
-    'url' => base_path() . drupal_get_path('module', 'ol_dccph2010_demo') . '/feeds/dccph2010-map.georss.xml',
+    'url' => '/ol_dccph2010_demo/sites/all/modules/contrib/ol_dccph2010_demo/feeds/dccph2010-map.georss.xml',
     'layer_type' => 'openlayers_layer_type_georss_custom',
   );
 

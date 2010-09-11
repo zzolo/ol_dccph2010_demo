@@ -340,6 +340,46 @@ function ol_dccph2010_demo_feature_views_default_views() {
     'weight' => 0,
     'name' => 'navigation',
   ));
+  $handler = $view->new_display('page', 'OL Demo > Map Displays > MapBox', 'page_5');
+  $handler->override_option('title', 'OL Demo > MapBox');
+  $handler->override_option('style_options', array(
+    'preset' => 'ol_demo_mapbox_haiti',
+  ));
+  $handler->override_option('path', 'map/mapbox');
+  $handler->override_option('menu', array(
+    'type' => 'none',
+    'title' => '',
+    'description' => '',
+    'weight' => 0,
+    'name' => 'navigation',
+  ));
+  $handler->override_option('tab_options', array(
+    'type' => 'none',
+    'title' => '',
+    'description' => '',
+    'weight' => 0,
+    'name' => 'navigation',
+  ));
+  $handler = $view->new_display('page', 'OL Demo > Map Displays > Full Example', 'page_6');
+  $handler->override_option('title', 'OL Demo > Full Example');
+  $handler->override_option('style_options', array(
+    'preset' => 'ol_demo_map_example_full',
+  ));
+  $handler->override_option('path', 'map/example_full');
+  $handler->override_option('menu', array(
+    'type' => 'none',
+    'title' => '',
+    'description' => '',
+    'weight' => 0,
+    'name' => 'navigation',
+  ));
+  $handler->override_option('tab_options', array(
+    'type' => 'none',
+    'title' => '',
+    'description' => '',
+    'weight' => 0,
+    'name' => 'navigation',
+  ));
 
   $views[$view->name] = $view;
 

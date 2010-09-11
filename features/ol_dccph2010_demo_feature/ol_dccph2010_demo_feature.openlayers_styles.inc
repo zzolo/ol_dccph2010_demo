@@ -12,7 +12,7 @@ function ol_dccph2010_demo_feature_openlayers_styles() {
   $openlayers_styles->title = 'OL Demo > Airport Style';
   $openlayers_styles->description = 'Style used for airport markers.';
   $openlayers_styles->data = array(
-    'externalGraphic' => base_path() . drupal_get_path('module', 'ol_dccph2010_demo') . '/images/airport-google.png',
+    'externalGraphic' => '/ol_dccph2010_demo/sites/all/modules/contrib/ol_dccph2010_demo/images/airport-google.png',
     'pointRadius' => 6,
     'fillColor' => '#EE9900',
     'strokeColor' => '#EE9900',
@@ -34,7 +34,7 @@ function ol_dccph2010_demo_feature_openlayers_styles() {
   $openlayers_styles->title = 'OL Demo > Drupal Style';
   $openlayers_styles->description = 'Style used for Drupal markers.';
   $openlayers_styles->data = array(
-    'externalGraphic' => base_path() . drupal_get_path('module', 'ol_dccph2010_demo') . '/images/druplicon.small.png',
+    'externalGraphic' => '/ol_dccph2010_demo/sites/all/modules/contrib/ol_dccph2010_demo/images/druplicon.small.png',
     'pointRadius' => 6,
     'fillColor' => '#EE9900',
     'strokeColor' => '#EE9900',
